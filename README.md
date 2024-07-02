@@ -33,7 +33,7 @@ The dataset is freely available and can be accessed on Kaggle https://www.kaggle
   <li>upl.lemmatize("your word")</li>
 </ol>
 
-<b>!!Getting version error while using the package?</b><br>
+<b>!!Getting version error while using the package? try this:</b><br>
 <ol>
   <li>pip uninstall keras tensorflow</li>
   <li>pip install tensorflow</li>
