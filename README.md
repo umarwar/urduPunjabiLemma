@@ -25,7 +25,7 @@ Manually curated Urdu and Punjabi (Shahmukhi) verbs and nouns.
 - Kaggle: `https://www.kaggle.com/datasets/malaikabasharat/urdu-punjabi-merged-dataset`
 
 ## Project structure
-- `urduPunjabiLemmatizer.ipynb`: Training/evaluation notebook
+- `urdu_punjabi_lemmatizer.ipynb`: Training/evaluation notebook
 - `training files/`: Additional experiments
 - `testWords.txt`: Sample words
 
