@@ -26,8 +26,9 @@ Manually curated Urdu and Punjabi (Shahmukhi) verbs and nouns.
 
 ## Project structure
 - `urdu_punjabi_lemmatizer.ipynb`: Training/evaluation notebook
-- `training files/`: Additional experiments
+- `testing_files/`: Additional experiments
 - `testWords.txt`: Sample words
+- `output`: saved model and tokenizer files
 
 ## Troubleshooting
 If you encounter TensorFlow/Keras version issues:
