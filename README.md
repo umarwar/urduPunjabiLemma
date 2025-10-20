@@ -1,10 +1,6 @@
 # urduPunjabiLemma
 A bilingual lemmatizer for Urdu and Punjabi (Shahmukhi), powered by TensorFlow/Keras. It predicts the base form (lemma) of input words using a character-level BiLSTM.
 
-### Authors
-- **Muhammad Umar**
-- **Malaika Basharat**
-
 ### Features
 - Bilingual: Urdu and Punjabi (Shahmukhi)
 - Deep learning: Character-level BiLSTM
@@ -44,3 +40,6 @@ Please open an issue with your Python, OS, and TensorFlow versions if problems p
 
 ## License
 See `LICENSE` in this repository.
+
+### Authors
+**Muhammad Umar**, **Malaika Basharat**
