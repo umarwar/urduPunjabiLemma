@@ -42,4 +42,4 @@ Please open an issue with your Python, OS, and TensorFlow versions if problems p
 See `LICENSE` in this repository.
 
 ### Authors
-`MUHAMMAD UMAR` and `MALAIKA BASHARAT`
+`Muhammad Umar` and `Malaika Basharat`
