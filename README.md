@@ -1,5 +1,9 @@
-## urduPunjabiLemma
+# urduPunjabiLemma
 A bilingual lemmatizer for Urdu and Punjabi (Shahmukhi), powered by TensorFlow/Keras. It predicts the base form (lemma) of input words using a character-level BiLSTM.
+
+### Authors
+- **Muhammad Umar**
+- **Malaika Basharat**
 
 ### Features
 - Bilingual: Urdu and Punjabi (Shahmukhi)
@@ -7,7 +11,7 @@ A bilingual lemmatizer for Urdu and Punjabi (Shahmukhi), powered by TensorFlow/K
 - Simple API: Python package via pip
 - Open dataset: Public training data
 
-## Installation
+### Installation
 ```bash
 pip install urdupunjabilemma
 ```
@@ -19,18 +23,18 @@ import urdupunjabilemma as upl
 print(upl.lemmatize("رکھئیں"))  
 ```
 
-## Dataset
+### Dataset
 Manually curated Urdu and Punjabi (Shahmukhi) verbs and nouns.
 
 - Kaggle: `https://www.kaggle.com/datasets/malaikabasharat/urdu-punjabi-merged-dataset`
 
-## Project structure
+### Project structure
 - `urdu_punjabi_lemmatizer.ipynb`: Training/evaluation notebook
 - `testing_files/`: Additional experiments
 - `testWords.txt`: Sample words
 - `output`: saved model and tokenizer files
 
-## Troubleshooting
+### Troubleshooting
 If you encounter TensorFlow/Keras version issues:
 ```bash
 pip uninstall -y keras tensorflow
